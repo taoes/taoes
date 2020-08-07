@@ -1,6 +1,8 @@
 
 👏🏻 Welcome to my github! Hope you have fun here !
 
+ <img src="https://pic.zhoutao123.com/github.png" width="50%">
+
 ## 📖 My Blog Article
 
 + [📔 深入理解 Java 虚拟机](https://www.zhoutao123.com/page/book/1)
