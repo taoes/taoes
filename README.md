@@ -1,7 +1,9 @@
 
 👏🏻 Welcome to my github! Hope you have fun here !
 
- <img src="https://pic.zhoutao123.com/github.png" width="80%">
+<p align="center">
+  <img src="https://pic.zhoutao123.com/github.png" width="80%"/>
+</p>
 
 ## 📖 My Blog Article
 
