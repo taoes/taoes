@@ -1,13 +1,4 @@
 
-## 🔀 Github Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taoes&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔥 Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoes)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📖 Blog Article
 
 + [📔 深入理解 Java 虚拟机](https://www.zhoutao123.com/page/book/1)
