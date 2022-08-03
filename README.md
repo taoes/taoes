@@ -3,8 +3,15 @@
 
 
 <p>Welcome to my page! </br> I'm Taoes, Fullstack developer from 🇨🇳 <b>Anhui, China  </b>, currently living in <b>Shanghai, China</b>.
+
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=taoes&show_icons=true&theme=radical)]()
+
+
 </p>
-<h3>Things I code with</h3>
+<h3>
+<img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30"/>
+Things I code with</h3>
 <p>   
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -32,7 +39,9 @@
     <img alt="alibabacloud" src="https://img.shields.io/badge/-alibabacloud-45b8d8?style=flat-square&logo=alibabacloud&logoColor=white" />
     <img alt="Arduino"src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="30"/>
+Open source projects</h3>
 <table>
     <thead align="center">
         <tr border: none;>
@@ -46,15 +55,25 @@
     <tbody>
         <tr>
             <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>SimpleDocker</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" />
+                <img alt="gitee" src="https://gitee.com/taoes_admin/SimpleDocker/badge/star.svg?theme=gvp"/>
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" />
+                <img alt="gitee" src="https://gitee.com/taoes_admin/SimpleDocker/badge/fork.svg?theme=gvp"/>
+            </td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
             <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Saka</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41" /></td>
+            <td>
+                <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41" />
+            </td>
+            <td>
+                <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41" />
+            </td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41" /></td>
         </tr>
@@ -62,7 +81,9 @@
 </table>
 
 
-<h3>Where to find me</h3>
+<h3>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>
+Where to find me</h3>
 
 <p>
     <a href="https://github.com/taoes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
