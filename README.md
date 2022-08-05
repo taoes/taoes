@@ -4,9 +4,13 @@
 
 <p>Welcome to my page! </br> I'm Taoes, Fullstack developer from 🇨🇳 <b>Anhui, China  </b>, currently living in <b>Shanghai, China</b>.
 
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=taoes&show_icons=true&theme=radical)]()
-
+<a href="https://github.com/taoes/github-readme-stats" title="Go to Source">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=taoes&show_icons=true&theme=gotham">
+</a>
+<a href="https://github.com/taoes/github-readme-stats">
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taoes&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+</a>
+<br/>
 
 </p>
 <h3>
