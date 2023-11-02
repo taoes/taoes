@@ -43,9 +43,9 @@ Things I code with</h3>
     <img alt="alibabacloud" src="https://img.shields.io/badge/-alibabacloud-45b8d8?style=flat-square&logo=alibabacloud&logoColor=white" />
     <img alt="Arduino"src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
-<h3>
-<img src="https://emojis.slackmojis.com/emojis/images/1643514239/2069/excited.gif?1643514239" width="30"/>
-Open source projects</h3>
+
+
+<h3>Open source projects</h3>
 <table>
     <thead align="center">
         <tr border: none;>
@@ -84,10 +84,7 @@ Open source projects</h3>
     </tbody>
 </table>
 
-
-<h3>
-<img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="30"/>
-Where to find me</h3>
+<h3>Where to find me</h3>
 
 <p>
     <a href="https://github.com/taoes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
@@ -96,13 +93,3 @@ Where to find me</h3>
     <a href="https://weibo.com/zhoutao825638" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/WEIBO-%2312100E.svg?&style=for-the-badge&logo=sinaweibo&logoColor=white" /></a>
     <a href="https://www.zhihu.com/people/time-13-73" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/zhihu-%2312100E.svg?&style=for-the-badge&logo=zhihu&logoColor=white" /></a>
 </p>
-
-<!-- ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 3 August,
-    02:42 CEST<br /><a
-        href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create
-        your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars"
-        src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" /> <img
-        alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41" />
-</p> -->
