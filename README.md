@@ -92,8 +92,8 @@ Where to find me</h3>
 <p>
     <a href="https://github.com/taoes" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://gitee.com/taoes_admin" target="_blank"><img alt="GITEE" src="https://img.shields.io/badge/GITEE-%231DA1F2.svg?&style=for-the-badge&logo=Gitee&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/WECHAT-%230077B5.svg?&style=for-the-badge&logo=Wechat&logoColor=white" /></a>
-    <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/WEIBO-%2312100E.svg?&style=for-the-badge&logo=sinaweibo&logoColor=white" /></a>
+    <a href="https://www.zhoutao123.com/about.html" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/WECHAT-%230077B5.svg?&style=for-the-badge&logo=Wechat&logoColor=white" /></a>
+    <a href="https://weibo.com/zhoutao825638" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/WEIBO-%2312100E.svg?&style=for-the-badge&logo=sinaweibo&logoColor=white" /></a>
     <a href="https://www.zhihu.com/people/time-13-73" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/zhihu-%2312100E.svg?&style=for-the-badge&logo=zhihu&logoColor=white" /></a>
 </p>
 
